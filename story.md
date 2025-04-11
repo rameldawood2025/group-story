@@ -1,1 +1,3 @@
 Once upon a time, a robot and a wizard met in a coffee shop...  
+They shared a cup of cappuccino while talking about space adventures.
+
